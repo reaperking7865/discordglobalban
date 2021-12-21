@@ -1,0 +1,18 @@
+{
+  "GuildID": "921501731106484224",
+  "GuildName": "Welcome To New Land's",
+  "Data": {
+    "Owner": "Reaperking#1111",
+    "OwnerID": "848400267707678761",
+    "WhiteListedUserIDs": [],
+    "WhiteListedUsers": [],
+    "BlackListedUserIDs": [],
+    "BlackListedUsers": [],
+    "TrustListedUserIDs": [
+      "894634640294432809"
+    ],
+    "TrustListedUsers": [
+      "<@894634640294432809>"
+    ]
+  }
+}

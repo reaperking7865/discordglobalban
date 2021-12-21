@@ -1,0 +1,14 @@
+{
+  "GuildID": "922345873629908992",
+  "GuildName": "Global Ban(Beta)",
+  "Data": {
+    "Owner": "Reaperking#1111",
+    "OwnerID": "848400267707678761",
+    "WhiteListedUserIDs": [],
+    "WhiteListedUsers": [],
+    "BlackListedUserIDs": [],
+    "BlackListedUsers": [],
+    "TrustListedUserIDs": [],
+    "TrustListedUsers": []
+  }
+}
